@@ -26,7 +26,7 @@ When creating a version of this chute, you should configure it as shown
 in the image.  This chute does not require an additional WiFi AP, but
 you should enable port binding as shown.
 
-![Chute version options](/images/chute_version.png)
+![Create version options](/images/create_version.png)
 
 After installing the chute on your router, if everything is configured
 correctly, you should be able to connect a device to the router's WiFi AP
