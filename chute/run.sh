@@ -11,7 +11,7 @@ while true; do
     #
     # NOT IMPLEMENTED
     #
-
+    iperf -c iperf.wiscnet.net -u -b20M -p 5002 -i2 -t30
     sleep 60
 done
 
