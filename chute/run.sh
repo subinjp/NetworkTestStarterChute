@@ -12,7 +12,7 @@ while true; do
     # NOT IMPLEMENTED
     #
 	iperf -s > /usr/share/nginx/html/results.txt
-	echo 'subin' > /usr/share/nginx/html/results.txt
+	#echo 'subin' > /usr/share/nginx/html/results.txt
 	
     sleep 60
 done
