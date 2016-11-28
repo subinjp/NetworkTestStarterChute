@@ -11,7 +11,8 @@ while true; do
     #
     # NOT IMPLEMENTED
     #
-	iperf -s
+	iperf -s > results.txt
+	
     sleep 60
 done
 
