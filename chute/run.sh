@@ -11,7 +11,8 @@ while true; do
     #
     # NOT IMPLEMENTED
     #
-	iperf -s > results.txt
+	#iperf -s > results.txt
+	echo 'subin' > results.txt
 	
     sleep 60
 done
